@@ -1,0 +1,6 @@
+[submodule "chore"]
+	path = chore
+	url = git@github.com:volkovasystems/chore.git
+[submodule "work"]
+	path = work
+	url = git@github.com:volkovasystems/work.git
